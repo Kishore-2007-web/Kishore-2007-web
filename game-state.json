@@ -1,0 +1,12 @@
+{
+  "visits": 3,
+  "pet": {
+    "hunger": 2,
+    "happiness": 8
+  },
+  "quotes": [
+    "Keep coding, the bugs fear you.",
+    "Every PR is a step closer to mastery.",
+    "404: Motivation not found, but you're still going."
+  ]
+}
