@@ -36,10 +36,7 @@
 
 > *" Keep coding, the bugs fear you. "*
 
-| 🧠 Profile Visits | 🐶 Pet Mood | 🍖 Hunger | 💖 Happiness |
-| :---: | :---: | :---: | :---: |
-| **4** | 🤤 Hungry & wanting snacks! | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (1/10) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (9/10) |
-
+ 
 <br/>
 
 <a href="https://github.com/Kishore-2007-web/Kishore-2007-web/issues/new?title=Feed+the+pet">
