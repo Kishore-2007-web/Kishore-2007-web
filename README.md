@@ -11,10 +11,11 @@
   <br/>
   
   <p>
-    🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
-    💻 <b>Full Stack Web Development</b> (MERN / Flask) &amp; <b>UI/UX Design</b><br>
-    🌱 Currently Learning: <b>Web 3.0, Blockchain, and Advanced Mobile App Development</b><br>
-    ⚡ <i>Bridging the gap between functional code and creative design</i>
+     🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
+💻 <b>Full Stack Developer</b> | React | Flask | Node.js | MongoDB<br>
+🤖 <b>AI &amp; App Development</b> | Python | Firebase | React Native<br>
+🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
+⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
   </p>
 
   <p>
