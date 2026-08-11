@@ -1,8 +1,8 @@
 {
-  "visits": 3,
+  "visits": 4,
   "pet": {
-    "hunger": 2,
-    "happiness": 8
+    "hunger": 1,
+    "happiness": 9
   },
   "quotes": [
     "Keep coding, the bugs fear you.",
