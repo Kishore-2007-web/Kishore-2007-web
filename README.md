@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <br> &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! 👋 </h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="Screenshot 2026-04-05 114826.png" width="35px">
   
   <h3>Hi, I'm Kishore 🚀</h3>
   
