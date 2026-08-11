@@ -12,8 +12,8 @@
   
   <p>
      🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
-💻 <b>Full Stack Developer</b> | React | Flask | Node.js | MongoDB<br>
-🤖 <b>AI &amp; App Development</b> | Python | Firebase | React Native<br>
+💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
+🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>
 🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
 ⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
   </p>
