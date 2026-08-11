@@ -77,18 +77,10 @@
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" /><br>Node.js</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /><br>Solidity</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br>Flutter</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br>Dart</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C Lang</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
   </tr>
 </table>
