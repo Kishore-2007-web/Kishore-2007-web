@@ -12,7 +12,7 @@
   <br/>
    <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" >
 
-<div> 
+<div style="max-width: 500px; max-height: 300px;"> 
   <p>
      🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
      💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
