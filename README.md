@@ -14,7 +14,7 @@
   <p>
      🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
 💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
-🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>
+🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="100" />
 🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
 ⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
   </p>
