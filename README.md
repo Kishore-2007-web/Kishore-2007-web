@@ -10,11 +10,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
   </a>
   <br/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" margin-left="10px">
   <p>
      🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
 💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
-🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="100" />
+🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" />
 🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
 ⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
   </p>
