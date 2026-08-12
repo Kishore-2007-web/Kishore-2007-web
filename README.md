@@ -2,13 +2,6 @@
   
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900" height="350">
   
-  <h3>Hi, I'm Kishore 🚀</h3>
-  
-  <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
-  </a>
-  <br/>
  <table align="center">
 <tr>
 
@@ -18,7 +11,28 @@
 
 <td align="center">
 
-<p>
+ <h3>Hi, I'm Kishore 🚀</h3>
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
+  </a>
+</td>
+
+<td align="center" width="180">
+ <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
+</td>
+
+ <table align="center">
+<tr>
+
+<td align="center" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150">
+</td>
+
+<td align="center">
+
+  <p>
 🎓 <b>Computer Science & Engineering Student</b> (Class of 2028)<br>
 💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
 🤖 <b>AI & App Development</b> | Python | Firebase<br>
