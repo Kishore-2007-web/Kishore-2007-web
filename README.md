@@ -5,7 +5,7 @@
  <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="200">
 <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150">
 </td>
 
@@ -19,7 +19,7 @@
   </a>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
  <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
 </td>
 
