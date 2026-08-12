@@ -30,7 +30,7 @@
 </td>
 
 <td align="center" width="180">
- <img src="https://user-images.githubusercontent.com/74038190/212259465-5f05a50e-500d-4809-94c5-a12e8ebc6ef1.png" width="200" />
+ <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
 </td>
 
 </tr>
