@@ -18,13 +18,7 @@
 
 </td>
 
-</tr>
-</table>
-  
-   
-  
- <table align="center">
-<tr>
+ 
 
 <td align="center" width="180">
 <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150">
