@@ -95,7 +95,7 @@
 <br>
 
 <!-- Handshake-->
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">>
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile%20😉🫶&animation=scaleIn&fontSize=25&fontAlignY=70&color=000000&fontColor=ffffff"/>
 </p>
