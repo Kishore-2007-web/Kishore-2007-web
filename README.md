@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <br> &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! 👋 </h2>
+  
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800" height="800">
 <br><br>
   
@@ -89,6 +89,11 @@
 </p>
 
 ---
+
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile%20😉🫶&animation=scaleIn&fontSize=25&fontAlignY=70&color=000000&fontColor=ffffff"/>
