@@ -135,27 +135,4 @@ The contribution graph becomes a playable arcade scene. GitHub Actions refreshes
 
 <br />
  
-
-## The rest of the profile
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=torvalds&theme=aurora&items=Kernel::Building%20the%20foundation|Open%20source::Collaborative%20software|Systems::Performance%20and%20reliability" width="100%" alt="Animated profile highlights" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=torvalds&theme=aurora" width="100%" alt="Animated pinned projects section" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=torvalds&theme=aurora" width="100%" alt="Animated ASCII profile scan" />
-</p>
-
-<br />
-
-<details>
-  <summary><b>Contribution games</b></summary>
-
-```md
-![Space Shooter contribution game](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/space-shooter.gif)
-```
-</details>
+ 
