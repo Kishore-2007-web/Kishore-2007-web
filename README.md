@@ -4,7 +4,7 @@
  <table align="center">
 <tr>
 
-<td align="left" width="300">
+<td align="left" width="50">
 
 <h3>Hi, I'm Kishore 🚀</h3>
 
