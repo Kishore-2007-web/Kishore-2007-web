@@ -10,19 +10,31 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
   </a>
   <br/>
-   <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" style="margin-top:100px; margin-left:10px;" >
+ <table align="center">
+<tr>
 
-<div style="max-width: 500px; max-height: 300px;"> 
-  <p>
-     🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
-     💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
-     🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              
-     🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
-    ⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
-  </p> 
-</div>
-  <img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="160" />
+<td align="center" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150">
+</td>
 
+<td align="center">
+
+<p>
+🎓 <b>Computer Science & Engineering Student</b> (Class of 2028)<br>
+💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
+🤖 <b>AI & App Development</b> | Python | Firebase<br>
+🎮 <b>Game Development & 3D</b> | Unreal Engine | Unity | Blender<br>
+⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
+</p>
+
+</td>
+
+<td align="center" width="180">
+<img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="160">
+</td>
+
+</tr>
+</table>
   <p>
     <a href="mailto:itsmekishore00@gmail.com">
       <img src="https://img.shields.io/badge/Email-itsmekishore00%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
