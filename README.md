@@ -235,37 +235,6 @@ The embeds below are the exact format to paste into a GitHub profile README. Rep
   <summary><b>Contribution games</b></summary>
 
 ```md
-![Jet contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=jet)
-![Snake contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=snake)
-![Eraser contribution visual](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=erased)
 ![Space Shooter contribution game](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/space-shooter.gif)
 ```
 </details>
-
-<details>
-  <summary><b>Automatic chess replay</b></summary>
-
-```md
-![Automatic chess replay](https://www.gitskins.com/api/section/chess?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
-
-<details>
-  <summary><b>Core profile sections</b></summary>
-
-```md
-![Profile hero](https://www.gitskins.com/api/section/hero?username=YOUR_USERNAME&theme=aurora)
-![GitHub stats](https://www.gitskins.com/api/section/stats?username=YOUR_USERNAME&theme=aurora)
-![Language stack](https://www.gitskins.com/api/section/stack?username=YOUR_USERNAME&theme=aurora)
-![Pinned projects](https://www.gitskins.com/api/section/projects?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
-
-<br />
-
-<p align="center">
-  <sub>
-    GitHub data in these visuals is fetched on request. The SVGs include reduced-motion behavior and light or dark variants where supported.<br />
-    <a href="https://www.gitskins.com/readme-generator"><b>Generate your own animated profile README with GitSkins</b></a>
-  </sub>
-</p>
