@@ -121,23 +121,7 @@
 
 The contribution graph can become a different visual experience without changing the underlying profile data. These are the three game-like modes available in README Studio.
 
-### Jet
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=jet" width="100%" alt="Animated contribution Jet game" />
-</p>
-
-### Snake
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
-</p>
-
-### Eraser
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=erased" width="100%" alt="Animated contribution Eraser visual" />
-</p>
 
 ### Space Shooter
 
@@ -147,21 +131,10 @@ The contribution graph becomes a playable arcade scene. GitHub Actions refreshes
   <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
 </p>
 
-<p align="center">
-  <a href="https://www.gitskins.com/readme-generator"><b>Use a contribution game in your README</b></a>
-</p>
+ 
 
 <br />
-
-## Chess replay
-
-Chess is a decorative replay that runs automatically inside the profile. It is designed to be watched, not played, so it stays lightweight and copy-ready inside a README.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora" width="100%" alt="Animated automatic chess replay" />
-</p>
-
-<br />
+ 
 
 ## The rest of the profile
 
