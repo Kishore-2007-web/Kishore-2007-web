@@ -1,12 +1,12 @@
 <div align="center">
   
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900" height="400">
- <table align="center">
+ <table align="center" style="border: none;">
 <tr>
 
 <td align="left" width="300 ">
 
-<h3>Hi, I'm Kishore 🚀</h3>
+<h2>Hi, I'm Kishore 🚀</h2>
 
 </td>
 
@@ -22,7 +22,7 @@
 </table>
 
 
- <table align="center">
+ <table align="center"  style="border: none;">
 <tr>
 
 <td align="center" width="180">
