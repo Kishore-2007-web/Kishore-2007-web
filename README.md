@@ -10,15 +10,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
   </a>
   <br/>
-   <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" style="margin-left: 10px;">
+   <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" >
+
+<div> 
   <p>
      🎓 <b>Computer Science &amp; Engineering Student</b> (Class of 2028)<br>
-💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
-🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              
-🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
-⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
+     💻 <b>Frontend Developer</b> | HTML | CSS | Javascript | MongoDB<br>
+     🤖 <b>AI &amp; App Development</b> | Python | Firebase<br>              
+     🎮 <b>Game Development &amp; 3D</b> | Unreal Engine | Unity | Blender<br>
+    ⚡ <i>Building real-world projects at the intersection of code, AI, and creativity</i>
   </p> 
-
+</div>
   <img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="160" />
 
   <p>
