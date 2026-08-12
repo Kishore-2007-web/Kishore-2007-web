@@ -36,7 +36,7 @@
 </tr>
 </table>
   <p>
-    <a>
+    <a href="mailto:itsmekishore00@gmail.com">
       <img src="https://img.shields.io/badge/Email-itsmekishore00%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
     </a>
     &nbsp;
