@@ -1,6 +1,7 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <br> &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! 👋 </h2>
-  <img src="Screenshot 2026-04-05 114826.png" width="800px" height=800px>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800" height="800">
+<br><br>
   
   <h3>Hi, I'm Kishore 🚀</h3>
   
