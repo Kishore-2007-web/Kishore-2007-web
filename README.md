@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer;" alt="Typing SVG" />
   </a>
   <br/>
-   <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" >
+   <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150" style="margin-top:100px; margin-left:10px;" >
 
 <div style="max-width: 500px; max-height: 300px;"> 
   <p>
