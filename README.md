@@ -10,7 +10,7 @@
 
 </td>
 
-<td align="left">
+<td align="left" width="600">
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;App+Developer;Game+Developer" alt="Typing SVG">
@@ -18,7 +18,12 @@
 
 </td>
 
- 
+</tr>
+</table>
+
+
+ <table align="center">
+<tr>
 
 <td align="center" width="180">
 <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="150">
