@@ -114,47 +114,8 @@
 </p>
 
 
+<!-- space shooter -->
 
-
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=torvalds&theme=aurora&label=Linus%20Torvalds" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Linus Torvalds" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://www.gitskins.com/readme-generator"><b>Build this in README Studio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-studio-tutorial">Watch the tutorial</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">gitskins.com</a>
-</p>
-
-<br />
-
-## The visual system
-
-This profile is a living animation demo built from GitSkins SVG sections. Each panel is a GitHub-safe image embed, rendered from public GitHub data and animated without a workflow or committed image files.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/portrait?username=torvalds&theme=aurora" width="100%" alt="Animated ASCII portrait for Linus Torvalds" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=aurora" width="100%" alt="Animated GitHub stats for Linus Torvalds" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=aurora" width="100%" alt="Animated language stack for Linus Torvalds" />
-</p>
-
-<br />
 
 ## Contribution games
 
@@ -217,19 +178,6 @@ Chess is a decorative replay that runs automatically inside the profile. It is d
 </p>
 
 <br />
-
-## Copy-ready snippets
-
-The embeds below are the exact format to paste into a GitHub profile README. Replace `torvalds` with your GitHub username and choose a theme such as `aurora`, `studio`, `cyber`, or `github-dark`.
-
-<details>
-  <summary><b>3D wordmark and portrait</b></summary>
-
-```md
-![3D wordmark](https://www.gitskins.com/api/section/wordmark?username=YOUR_USERNAME&theme=aurora)
-![ASCII portrait](https://www.gitskins.com/api/section/portrait?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
 
 <details>
   <summary><b>Contribution games</b></summary>
