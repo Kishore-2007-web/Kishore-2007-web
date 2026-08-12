@@ -29,28 +29,7 @@
 
 ---
 
-<!-- LIVING-GAME:START -->
-<div align="center">
-
-### 🐾 Living Profile Pet & Daily Motivation 🧸
-
-> *" Keep coding, the bugs fear you. "*
-
  
-<br/>
-
-<a href="https://github.com/Kishore-2007-web/Kishore-2007-web/issues/new?title=Feed+the+pet">
-  <img src="https://img.shields.io/badge/🍖_Feed_Pet-Open_Issue-orange?style=for-the-badge" alt="Feed Pet" />
-</a>
-&nbsp;
-<a href="https://github.com/Kishore-2007-web/Kishore-2007-web/issues/new?title=Play+with+pet">
-  <img src="https://img.shields.io/badge/🎾_Play_With_Pet-Open_Issue-brightgreen?style=for-the-badge" alt="Play" />
-</a>
-
-<br/>
-<sub>🔁 Automatically updated hourly via GitHub Actions</sub>
-
-</div>
 
 
 < <!-- space shooter -->
