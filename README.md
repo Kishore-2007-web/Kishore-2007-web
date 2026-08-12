@@ -118,14 +118,13 @@
 
 
 ## Contribution games
-
-The contribution graph can become a different visual experience without changing the underlying profile data. These are the three game-like modes available in README Studio.
+ 
 
 
 
 ### Space Shooter
 
-The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's `output` branch.
+ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
