@@ -70,7 +70,7 @@
  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+  <img src="https://raw.githubusercontent.com/Kishore-2007-web/Kishore-2007-web/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
 </p>
 
 
