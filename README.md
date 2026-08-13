@@ -20,10 +20,12 @@
 </td>
 
 <td align="center" width="200">
- <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
 </td>
+</tr>
+</table>
 
- <table align="center">
+<table align="center">
 <tr>
 
 <td align="center" width="180">
@@ -85,57 +87,44 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" /><br>Unreal
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br>Unity
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br>Canva
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
     </td>
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
