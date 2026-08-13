@@ -105,6 +105,9 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
     </td>
+    <td align="center" width="96" rowspan="2">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="48" height="48" alt="Loading" /><br>Loading...
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -120,7 +123,7 @@
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br>Canva
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" /><br>Canva
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
