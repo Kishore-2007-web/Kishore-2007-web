@@ -76,25 +76,79 @@
 
 ---
 
-<div align="center">
+ <div align="center">
   <h3>🛠️ Languages, Frameworks &amp; Tools</h3>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
+    </td>
+
+    <!-- Loading GIF -->
+    <td align="center" width="96" rowspan="2">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="48" height="48" alt="Loading" /><br>
+      Loading...
+    </td>
   </tr>
+
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" /><br>Unreal
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+
+    <!-- Canva -->
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" /><br>Canva
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+
+    <!-- Antigravity -->
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Antigravity" /><br>Antigravity
+    </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
