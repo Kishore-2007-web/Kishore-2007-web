@@ -109,17 +109,15 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender
     </td>
-
-    <!-- Loading GIF -->
-    <td align="center" width="96" rowspan="2">
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="48" height="48" alt="Loading" /><br>
-      Loading...
-    </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" /><br>Unreal
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br>Unity
     </td>
 
     <td align="center" width="96">
@@ -130,9 +128,8 @@
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
     </td>
 
-    <!-- Canva -->
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" /><br>Canva
+      <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" /><br>Canva
     </td>
 
     <td align="center" width="96">
@@ -142,13 +139,9 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
-
-    <!-- Antigravity -->
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Antigravity" /><br>Antigravity
-    </td>
   </tr>
 </table>
+
 ---
 
 <div align="center">
