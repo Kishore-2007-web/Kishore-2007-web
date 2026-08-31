@@ -136,25 +136,42 @@
 
 ---
 
-<div align="center">
+ <div align="center">
   <h3>📊 GitHub Stats &amp; Activity</h3>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-2007-web&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kishore-2007-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-2007-web&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+    height="180"
+  />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-jet-one.vercel.app?user=Kishore-2007-web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Kishore-2007-web&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-2007-web&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" 
+    width="95%" 
+    alt="GitHub Activity Graph"
+  />
 </div>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=merko&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph" width="95%" alt="Activity Graph">
-</p>
+
 
 ---
 
