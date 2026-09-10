@@ -151,6 +151,7 @@
     alt="Top Languages"
     height="180"
   />
+  ![](https://github-readme-stats.shion.dev/api?username=Kishore-2007-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </div>
 
 <br/>
