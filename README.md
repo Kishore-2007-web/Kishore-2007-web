@@ -142,7 +142,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kishore-2007-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.shion.dev/api?username=Kishore-2007-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
     height="180"
   />
@@ -158,7 +158,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.shion.dev/api?username=Kishore-2007-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://streak-stats.demolab.com?user=Kishore-2007-web&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak"
   />
 </div>
