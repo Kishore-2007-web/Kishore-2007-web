@@ -163,7 +163,7 @@
 
 <div align="center">
   <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web"
   width="95%"
   alt="GitHub Activity Graph"
 />
