@@ -162,11 +162,13 @@
 <br/>
 
 <div align="center">
- <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
+ <p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Kishore-2007-web&theme=tokyonight&hide_border=true"
+    width="95%"
+    alt="GitHub Streak Stats"
+  />
+</p>
 </div>
 
 
