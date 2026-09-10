@@ -151,14 +151,14 @@
     alt="Top Languages"
     height="180"
   />
-  ![](https://github-readme-stats.shion.dev/api?username=Kishore-2007-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+   
 </div>
 
 <br/>
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Kishore-2007-web&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.shion.dev/api?username=Kishore-2007-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
     alt="GitHub Streak"
   />
 </div>
