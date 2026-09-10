@@ -146,11 +146,7 @@
     alt="GitHub Stats"
     height="180"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-2007-web&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-    height="180"
-  />
+  
    
 </div>
 
@@ -166,11 +162,11 @@
 <br/>
 
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" 
-    width="95%" 
-    alt="GitHub Activity Graph"
-  />
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-2007-web&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 </div>
 
 
