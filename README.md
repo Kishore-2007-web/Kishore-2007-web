@@ -11,7 +11,7 @@
 
 <td align="center">
 
- <h3>Hi, I'm Kishore 🚀</h3>
+ <h3>Hi, I'm Kishore </h3>
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
